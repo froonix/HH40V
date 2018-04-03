@@ -1,5 +1,5 @@
 # Alcatel LINKHUB HH40V-2BA1AT1 (A1 Net Cube 2)
-Manufactured by TCL Communications Limited
+Manufactured by TCL Communications Limited (see: HH41)
 
 Currently this is a [wiki-only](https://github.com/froonix/HH40V/wiki) repository for documentation…
 
